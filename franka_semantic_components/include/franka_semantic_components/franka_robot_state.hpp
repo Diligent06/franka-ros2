@@ -22,7 +22,7 @@
 
 #include "franka/robot_state.h"
 #include "franka_msgs/msg/franka_robot_state.hpp"
-#include "franka_semantic_components/franka_semantic_component_interface.hpp"
+#include "semantic_components/semantic_component_interface.hpp"
 
 namespace franka_semantic_components {
 class FrankaRobotState
